@@ -1,0 +1,37 @@
+.lateral-info{	
+	-fx-background-color: #555555;
+	-fx-border-width: 0 1px 0 0;
+	-fx-border-color: #000000;	
+}
+
+.small-text{
+	-fx-font-size: 18px;
+	-fx-text-fill: #ffffff;
+}
+
+.medium-text{
+	-fx-font-size: 32px;
+	-fx-text-fill: #ff0000;		
+}
+
+.large-text{
+	-fx-font-size: 38px;
+	-fx-text-fill: #07c3ed;		
+}
+
+.xlarge-text{
+	-fx-font-size: 96px;
+	-fx-text-fill: #ff0000;		
+}
+
+.capacity-empty{
+	-fx-accent: green; 
+}
+
+.capacity-quasi-full{
+	-fx-accent: orange;
+}
+
+.capacity-full{
+	-fx-accent: red; 
+}
