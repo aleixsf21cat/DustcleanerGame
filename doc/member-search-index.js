@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.uoc.uocleaner.model","c":"DustBall","l":"DustBall(int, int)","u":"%3Cinit%3E(int,int)"},{"p":"edu.uoc.uocleaner.model","c":"DustBall","l":"moveRandomly(Level)","u":"moveRandomly(edu.uoc.uocleaner.model.Level)"},{"p":"edu.uoc.uocleaner.model","c":"DustBall","l":"moveTo(int, int)","u":"moveTo(int,int)"}];updateSearchResults();
